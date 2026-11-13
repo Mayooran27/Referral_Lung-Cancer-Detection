@@ -1,0 +1,4 @@
+,Benign cases,Malignant cases,Normal cases
+Benign cases,164,1,15
+Malignant cases,2,177,2
+Normal cases,17,3,162

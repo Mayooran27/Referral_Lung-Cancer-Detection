@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# React
+node_modules/
+dist/
+build/
+
+# Google Colab
+.ipynb_checkpoints/
+
+# Dataset
+Dataset/
+**/Dataset/
+
+# Temporary files
+*.log
+.DS_Store
